@@ -2,14 +2,11 @@
 # Output: 3
 # Explanation: The first two digits or the last three digits are consecutive 1s.
 #     The maximum number of consecutive 1s is 3.
+from typing import List
 
 
-class Solution(object):
-    def findMaxConsecutiveOnes(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
         max = 0
         current = 0
 
@@ -25,8 +22,8 @@ class Solution(object):
 
 
 # Time complexity: O(n)
-# Runtime: 280 ms
-# Memory Usage: 13.7 MB
+# Runtime: 340 ms (86.07%)
+# Memory Usage: 14.3 MB
 
 
 solution0 = Solution()
