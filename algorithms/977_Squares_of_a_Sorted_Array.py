@@ -23,9 +23,10 @@ class Solution:
         return result
 
 
-# Time complexity: O(n)
+# Time Complexity: O(n)
+# Space Complexity: O(n)
 # Runtime: 252 ms (26.47%)
-# Memory Usage: 16.3 MB
+# Memory Usage: 16.3 MB (32.58%)
 
 solution0 = Solution()
 print(solution0.sortedSquares([-4, -1, 0, 3, 10]) == [0, 1, 9, 16, 100])

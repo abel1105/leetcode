@@ -19,9 +19,10 @@ class Solution:
         return count
 
 
-# Time complexity: O(n)
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 # Runtime: 52 ms (72.66%)
-# Memory Usage: 14.1 MB
+# Memory Usage: 14.1 MB (89.55%)
 
 solution0 = Solution()
 print(solution0.findNumbers([12, 345, 2, 6, 7896]) == 2)

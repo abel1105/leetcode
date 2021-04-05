@@ -21,9 +21,10 @@ class Solution:
         return current if current > max else max
 
 
-# Time complexity: O(n)
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 # Runtime: 340 ms (86.07%)
-# Memory Usage: 14.3 MB
+# Memory Usage: 14.3 MB (75.94%)
 
 
 solution0 = Solution()
