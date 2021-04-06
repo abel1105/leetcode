@@ -25,7 +25,7 @@ class Solution:
         return None
 
 
-# Time complexity: O(m)
+# Time complexity: O(m + n)
 # Space Complexity: O(1)
 # Runtime: 36 ms (68.04%)
 # Memory Usage: 14.3 MB (63.25%)
