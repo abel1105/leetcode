@@ -29,8 +29,3 @@ solution1 = Solution()
 nums1 = [0, 0, 1, 1, 1, 2, 2, 3, 3, 4]
 print(solution1.removeDuplicates(nums1) == 5)
 print(nums1[0:5] == [0, 1, 2, 3, 4])
-
-solution2 = Solution()
-nums2 = []
-print(solution2.removeDuplicates(nums2) == 0)
-print(nums2[0:0] == [])
