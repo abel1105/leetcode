@@ -23,3 +23,14 @@ ref: https://leetcode.com/explore/learn/card/fun-with-arrays/
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python 3](./algorithms/1295_Find_Numbers_with_Even_Number_of_Digits.py)| Easy |
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Python 3](algorithms/1299_Replace_Elements_with_Greatest_Element_on_Right_Side.py)| Easy |
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Python 3](./algorithms/1346_Check_If_N_and_Its_Double_Exist.py)| Easy |
+
+
+### Linked List
+
+ref: https://leetcode.com/explore/learn/card/linked-list/
+
+|#	|Title|	Solution| Difficulty|
+|---|---|---|---|
+|707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Python 3](./algorithms/707_Design_Linked_List.py)| Medium |
+
+
