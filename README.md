@@ -32,6 +32,7 @@ ref: https://leetcode.com/explore/learn/card/linked-list/
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python 3](./algorithms/141_Linked_List_Cycle.py)| Easy |
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Python 3](./algorithms/142_Linked_List_Cycle_II.py)| Medium |
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Python 3](./algorithms/707_Design_Linked_List.py)| Medium |
 
 
