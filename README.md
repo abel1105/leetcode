@@ -37,6 +37,7 @@ ref: https://leetcode.com/explore/learn/card/linked-list/
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python 3](./algorithms/160_Intersection_of_Two_Linked_Lists.py)| Easy |
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python 3](./algorithms/203_Remove_Linked_List_Elements.py)| Easy |
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python 3](./algorithms/206_Reverse_Linked_List.py)| Easy |
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python 3](./algorithms/328_Odd_Even_Linked_List.py)| Medium |
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Python 3](./algorithms/707_Design_Linked_List.py)| Medium |
 
 
