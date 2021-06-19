@@ -31,6 +31,7 @@ ref: https://leetcode.com/explore/learn/card/linked-list/
 
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python 3](./algorithms/2_Add_Two_Numbers.py)| Medium |
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python 3](./algorithms/19_Remove_Nth_Node_From_End_of_List.py)| Medium |
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python 3](./algorithms/21_Merge_Two_Sorted_Lists.py)| Easy |
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python 3](./algorithms/141_Linked_List_Cycle.py)| Easy |
