@@ -16,9 +16,10 @@ from typing import List
 
 
 class Item:
-    def __init__(self, value: int, next=None):
+    def __init__(self, value: int):
         self.value = value
-        self.next = next
+        self.next = None
+        self.prev = None
 
 
 class MyLinkedList:
@@ -27,86 +28,84 @@ class MyLinkedList:
         """
         Initialize your data structure here.
         """
-        self.head = None
-        self.tail = None
-        self.length = 0
+        self.size = 0
+        self.head = Item(0)
+        self.tail = Item(0)
+        self.head.next = self.tail
+        self.tail.prev = self.head
+
+    def getNode(self, index: int) -> Item:
+        if index < self.size / 2:
+            # start from start
+            node = self.head
+            for _ in range(index + 1):
+                node = node.next
+        else:
+            # start from end
+            node = self.tail
+            for _ in range(self.size - index):
+                node = node.prev
+        return node
+
+    def addNode(self, node: Item, val: int)-> None:
+        item = Item(val)
+        item.prev = node
+        item.next = node.next
+        node.next.prev = item
+        node.next = item
+        self.size += 1
+
+    def removeNode(self, node: Item) -> None:
+        node.prev.next = node.next
+        node.next.prev = node.prev
+        self.size -= 1
 
     def get(self, index: int) -> int:
         """
         Get the value of the index-th node in the linked list. If the index is invalid, return -1.
         """
-        if self.length <= index or index < 0:
+        if index < 0 or index >= self.size:
             return -1
-        current = self.head
-        while index > 0:
-            current = current.next
-            index -= 1
-        return current.value
+
+        return self.getNode(index).value
+
 
     def addAtHead(self, val: int) -> None:
         """
         Add a node of value val before the first element of the linked list. After the insertion, the new node will be the first node of the linked list.
         """
-        self.head = Item(val, self.head)
-        if self.length == 0:
-            self.tail = self.head
-
-        self.length += 1
+        self.addNode(self.head, val)
 
     def addAtTail(self, val: int) -> None:
         """
         Append a node of value val to the last element of the linked list.
         """
-        tail = Item(val, None)
-        if self.length == 0:
-            self.head = self.tail = tail
-        else:
-            self.tail.next = tail
-            self.tail = self.tail.next
-        self.length += 1
+        self.addNode(self.tail.prev, val)
 
     def addAtIndex(self, index: int, val: int) -> None:
         """
         Add a node of value val before the index-th node in the linked list. If index equals to the length of linked list, the node will be appended to the end of linked list. If index is greater than the length, the node will not be inserted.
         """
-        if index > self.length or index < 0:
+        if index < 0 or index > self.size:
             return None
-        if index == 0:
-            return self.addAtHead(val)
-        if index == self.length:
-            return self.addAtTail(val)
 
-        current = Item(0, self.head)
-        while index > 0:
-            current = current.next
-            index -= 1
-
-        current.next = Item(val, current.next)
-        self.length += 1
+        self.addNode(self.getNode(index).prev, val)
 
     def deleteAtIndex(self, index: int) -> None:
         """
         Delete the index-th node in the linked list, if the index is valid.
         """
-        if 0 > index or index >= self.length:
+        if index < 0 or index >= self.size:
             return None
 
-        current = Item(0, self.head)
-        for i in range(index):
-            current = current.next
+        self.removeNode(self.getNode(index))
 
-        current.next = current.next.next
 
-        if index == 0:
-            self.head = current.next
-        if index == self.length - 1:
-            self.tail = current
-        self.length -= 1
 
 # Time complexity: O(N)
 # Space Complexity: O(1)
-# Runtime: 188 ms (79.40%)
-# Memory Usage: 15 MB (59.42%)
+# Runtime: 128 ms (92.44%)
+# Memory Usage: 15.6 MB (59.42%)
 
 # Your MyLinkedList object will be instantiated and called as such:
 obj = MyLinkedList()
