@@ -47,3 +47,10 @@ ref: https://leetcode.com/explore/learn/card/linked-list/
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Python 3](./algorithms/707_Design_Linked_List.py)| Medium |
 
 
+### Binary Tree
+
+ref: https://leetcode.com/explore/learn/card/data-structure-tree/
+
+|#	|Title|	Solution| Difficulty|
+|---|---|---|---|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python 3](./algorithms/144_Binary_Tree_Preorder_Traversal.py)| Easy |
