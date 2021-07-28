@@ -55,3 +55,4 @@ ref: https://leetcode.com/explore/learn/card/data-structure-tree/
 |---|---|---|---|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python 3](./algorithms/94_Binary_Tree_Inorder_Traversal.py)| Easy |
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python 3](./algorithms/144_Binary_Tree_Preorder_Traversal.py)| Easy |
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python 3](./algorithms/145_Binary_Tree_Postorder_Traversal.py)| Easy |
