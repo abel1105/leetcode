@@ -57,5 +57,6 @@ ref: https://leetcode.com/explore/learn/card/data-structure-tree/
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python 3](./algorithms/101_Symmetric_Tree.py)| Easy |
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python 3](./algorithms/102_Binary_Tree_Level_Order_Traversal.py)| Medium |
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python 3](./algorithms/104_Maximum_Depth_of_Binary_Tree.py)| Easy |
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python 3](./algorithms/112_Path_Sum.py)| Easy |
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python 3](./algorithms/144_Binary_Tree_Preorder_Traversal.py)| Easy |
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python 3](./algorithms/145_Binary_Tree_Postorder_Traversal.py)| Easy |
