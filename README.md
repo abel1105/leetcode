@@ -66,3 +66,12 @@ ref: https://leetcode.com/explore/learn/card/data-structure-tree/
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python 3](./algorithms/145_Binary_Tree_Postorder_Traversal.py)| Easy |
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python 3](./algorithms/236_Lowest_Common_Ancestor_of_a_Binary_Tree.py)| Medium |
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Python 3](./algorithms/297_Serialize_and_Deserialize_Binary_Tree.py)| Hard |
+
+### Recursion I
+
+ref: https://leetcode.com/explore/learn/card/recursion-i/
+
+|#	|Title|	Solution| Difficulty|
+|---|---|---|---|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python 3](./algorithms/24_Swap_Nodes_in_Pairs.py)| Medium |
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python 3](./algorithms/344_Reverse_String.py)| Easy |
