@@ -20,6 +20,14 @@ class Solution:
             head.next = temp
         return head.next
 
+    def reverseListRecursive(self, head: ListNode) -> ListNode:
+        if not head or not head.next:
+            return head
+        new_head = self.reverseListRecursive(head.next)
+        head.next.next = head
+        head.next = None
+        return new_head
+
 
 # Time complexity: O(N)
 # Space Complexity: O(1)
