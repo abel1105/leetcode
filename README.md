@@ -74,7 +74,9 @@ ref: https://leetcode.com/explore/learn/card/recursion-i/
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python 3](./algorithms/24_Swap_Nodes_in_Pairs.py)| Medium |
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python 3](./algorithms/70_Climbing_Stairs.py)| Easy |
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python 3](./algorithms/119_Pascal's_Triangle_II.py)| Easy |
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python 3](./algorithms/206_Reverse_Linked_List.py)| Easy |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python 3](./algorithms/344_Reverse_String.py)| Easy |
+|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python 3](./algorithms/509_Fibonacci_Number.py)| Easy |
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python 3](./algorithms/700_Search_in_a_Binary_Search_Tree.py)| Easy |
