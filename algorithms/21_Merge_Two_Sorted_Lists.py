@@ -29,6 +29,19 @@ class Solution:
 
         return front.next
 
+    def mergeTwoListsRecursive(self, l1: ListNode, l2: ListNode) -> ListNode:
+        if not l1:
+            return l2
+        if not l2:
+            return l1
+
+        if l1.val >= l2.val:
+            l2.next = self.mergeTwoListsRecursive(l1, l2.next)
+            return l2
+        else:
+            l1.next = self.mergeTwoListsRecursive(l1.next, l2)
+            return l1
+
 
 # Time complexity: O(N)
 # Space Complexity: O(1)

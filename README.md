@@ -73,6 +73,7 @@ ref: https://leetcode.com/explore/learn/card/recursion-i/
 
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python 3](./algorithms/21_Merge_Two_Sorted_Lists.py)| Easy |
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python 3](./algorithms/24_Swap_Nodes_in_Pairs.py)| Medium |
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python 3](./algorithms/50_Pow(x,n).py)| Medium |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python 3](./algorithms/70_Climbing_Stairs.py)| Easy |
@@ -81,3 +82,4 @@ ref: https://leetcode.com/explore/learn/card/recursion-i/
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python 3](./algorithms/344_Reverse_String.py)| Easy |
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python 3](./algorithms/509_Fibonacci_Number.py)| Easy |
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python 3](./algorithms/700_Search_in_a_Binary_Search_Tree.py)| Easy |
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Python 3](./algorithms/779_K-th_Symbol_in_Grammar.py)| Medium |
