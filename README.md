@@ -77,6 +77,7 @@ ref: https://leetcode.com/explore/learn/card/recursion-i/
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python 3](./algorithms/24_Swap_Nodes_in_Pairs.py)| Medium |
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python 3](./algorithms/50_Pow(x,n).py)| Medium |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python 3](./algorithms/70_Climbing_Stairs.py)| Easy |
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python 3](./algorithms/95_Unique_Binary_Search_Trees_II.py)| Medium |
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python 3](./algorithms/119_Pascal's_Triangle_II.py)| Easy |
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python 3](./algorithms/206_Reverse_Linked_List.py)| Easy |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python 3](./algorithms/344_Reverse_String.py)| Easy |
