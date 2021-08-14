@@ -91,4 +91,5 @@ ref: https://leetcode.com/explore/learn/card/recursion-ii
 
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python 3](./algorithms/98_Validate_Binary_Search_Tree.py)| Medium |
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Python 3](./algorithms/912_Sort_an_Array.py)| Medium |
