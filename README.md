@@ -91,6 +91,7 @@ ref: https://leetcode.com/explore/learn/card/recursion-ii
 
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Python 3](./algorithms/52_N-Queens_II.py)| Hard |
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python 3](./algorithms/98_Validate_Binary_Search_Tree.py)| Medium |
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python 3](./algorithms/240_Search_a_2D_Matrix_II.py)| Medium |
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Python 3](./algorithms/912_Sort_an_Array.py)| Medium |
