@@ -91,6 +91,7 @@ ref: https://leetcode.com/explore/learn/card/recursion-ii
 
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python 3](./algorithms/22_Generate_Parentheses.py)| Medium |
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Python 3](./algorithms/37_Sudoku_Solver.py)| Hard |
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Python 3](./algorithms/52_N-Queens_II.py)| Hard |
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[Python 3](./algorithms/77_Combinations.py)| Medium |
