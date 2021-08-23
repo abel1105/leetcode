@@ -93,6 +93,7 @@ ref: https://leetcode.com/explore/learn/card/recursion-ii
 |---|---|---|---|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python 3](./algorithms/22_Generate_Parentheses.py)| Medium |
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Python 3](./algorithms/37_Sudoku_Solver.py)| Hard |
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[Python 3](./algorithms/46_Permutations.py)| Medium |
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Python 3](./algorithms/52_N-Queens_II.py)| Hard |
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[Python 3](./algorithms/77_Combinations.py)| Medium |
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Python 3](./algorithms/84_Largest_Rectangle_in_Histogram.py)| Hard |
