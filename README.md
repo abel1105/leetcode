@@ -67,6 +67,15 @@ ref: https://leetcode.com/explore/learn/card/data-structure-tree/
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python 3](./algorithms/236_Lowest_Common_Ancestor_of_a_Binary_Tree.py)| Medium |
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Python 3](./algorithms/297_Serialize_and_Deserialize_Binary_Tree.py)| Hard |
 
+### N-ary Tree
+
+ref: https://leetcode.com/explore/learn/card/n-ary-tree/
+
+|#	|Title|	Solution| Difficulty|
+|---|---|---|---|
+|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python 3](./algorithms/589_N-ary_Tree_Preorder_Traversal.py)| Easy |
+
+
 ### Recursion I
 
 ref: https://leetcode.com/explore/learn/card/recursion-i/
