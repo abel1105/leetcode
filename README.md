@@ -74,6 +74,7 @@ ref: https://leetcode.com/explore/learn/card/n-ary-tree/
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python 3](./algorithms/429_N-ary_Tree_Level_Order_Traversal.py)| Medium |
+|559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python 3](./algorithms/559_Maximum_Depth_of_N-ary_Tree.py| Easy |
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python 3](./algorithms/589_N-ary_Tree_Preorder_Traversal.py)| Easy |
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python 3](./algorithms/590_N-ary_Tree_Postorder_Traversal.py)| Easy |
 
