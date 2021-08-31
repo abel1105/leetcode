@@ -87,6 +87,7 @@ ref: https://leetcode.com/explore/learn/card/introduction-to-data-structure-bina
 |---|---|---|---|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python 3](./algorithms/98_Validate_Binary_Search_Tree.py)| Medium |
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python 3](./algorithms/173_Binary_Search_Tree_Iterator.py)| Medium |
+|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python 3](./algorithms/701_Insert_into_a_Binary_Search_Tree.py)| Medium |
 
 
 ### Recursion I
