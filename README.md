@@ -87,8 +87,11 @@ ref: https://leetcode.com/explore/learn/card/introduction-to-data-structure-bina
 |---|---|---|---|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python 3](./algorithms/98_Validate_Binary_Search_Tree.py)| Medium |
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python 3](./algorithms/173_Binary_Search_Tree_Iterator.py)| Medium |
+|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[Python 3](./algorithms/220_Contains_Duplicate_III.py)| Medium |
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python 3](./algorithms/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py)| Easy |
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python 3](./algorithms/450_Delete_Node_in_a_BST.py)| Medium |
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python 3](./algorithms/701_Insert_into_a_Binary_Search_Tree.py)| Medium |
+|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python 3](./algorithms/703_Kth_Largest_Element_in_a_Stream.py)| Easy |
 
 
 ### Recursion I
