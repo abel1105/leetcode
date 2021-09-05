@@ -86,6 +86,8 @@ ref: https://leetcode.com/explore/learn/card/introduction-to-data-structure-bina
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python 3](./algorithms/98_Validate_Binary_Search_Tree.py)| Medium |
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python 3](./algorithms/108_Convert_Sorted_Array_to_Binary_Search_Tree.py)| Easy |
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Python 3](./algorithms/110_Balanced_Binary_Tree.py)| Easy |
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python 3](./algorithms/173_Binary_Search_Tree_Iterator.py)| Medium |
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[Python 3](./algorithms/220_Contains_Duplicate_III.py)| Medium |
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python 3](./algorithms/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py)| Easy |
