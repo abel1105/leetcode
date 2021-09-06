@@ -24,6 +24,15 @@ ref: https://leetcode.com/explore/learn/card/fun-with-arrays/
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Python 3](algorithms/1299_Replace_Elements_with_Greatest_Element_on_Right_Side.py)| Easy |
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Python 3](./algorithms/1346_Check_If_N_and_Its_Double_Exist.py)| Easy |
 
+### Array and string
+
+ref: https://leetcode.com/explore/learn/card/array-and-string/
+
+|#	|Title|	Solution| Difficulty|
+|---|---|---|---|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python 3](./algorithms/724_Find_Pivot_Index.py)| Easy |
+
+
 
 ### Linked List
 
