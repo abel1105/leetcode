@@ -31,6 +31,7 @@ ref: https://leetcode.com/explore/learn/card/array-and-string/
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python 3](./algorithms/724_Find_Pivot_Index.py)| Easy |
+|747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Python 3](./algorithms/747_Largest_Number_At_Least_Twice_of_Others.py)| Easy |
 
 
 
