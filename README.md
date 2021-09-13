@@ -31,6 +31,7 @@ ref: https://leetcode.com/explore/learn/card/array-and-string/
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python 3](./algorithms/54_Spiral_Matrix.py)| Medium |
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python 3](./algorithms/67_Add_Binary.py)| Easy |
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python 3](./algorithms/66_Plus_One.py)| Easy |
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python 3](./algorithms/118_Pascal's_Triangle.py)| Easy |
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Python 3](./algorithms/498_Diagonal_Traverse.py)| Medium |
