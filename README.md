@@ -30,6 +30,7 @@ ref: https://leetcode.com/explore/learn/card/array-and-string/
 
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python 3](./algorithms/28_Implement_strStr().py)| Easy |
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python 3](./algorithms/54_Spiral_Matrix.py)| Medium |
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python 3](./algorithms/67_Add_Binary.py)| Easy |
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python 3](./algorithms/66_Plus_One.py)| Easy |
