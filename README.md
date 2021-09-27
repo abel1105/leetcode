@@ -142,7 +142,7 @@ ref: https://leetcode.com/explore/learn/card/recursion-ii
 
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
-|17|[Letter Combinations of a Phone Number](algorithms/19_Remove_Nth_Node_From_End_of_List.py)|[Python 3](./algorithms/19_Remove_Nth_Node_From_End_of_List.py)| Medium |
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python 3](./algorithms/19_Remove_Nth_Node_From_End_of_List.py)| Medium |
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python 3](./algorithms/22_Generate_Parentheses.py)| Medium |
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Python 3](./algorithms/37_Sudoku_Solver.py)| Hard |
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Python 3](./algorithms/46_Permutations.py)| Medium |
@@ -152,3 +152,11 @@ ref: https://leetcode.com/explore/learn/card/recursion-ii
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python 3](./algorithms/98_Validate_Binary_Search_Tree.py)| Medium |
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python 3](./algorithms/240_Search_a_2D_Matrix_II.py)| Medium |
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Python 3](./algorithms/912_Sort_an_Array.py)| Medium |
+
+### Hash Table
+
+ref: https://leetcode.com/explore/learn/card/hash-table
+
+|#	|Title|	Solution| Difficulty|
+|---|---|---|---|
+|705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Python 3](./algorithms/705_Design_HashSet.py)| Easy |
