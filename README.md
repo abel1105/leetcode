@@ -160,3 +160,4 @@ ref: https://leetcode.com/explore/learn/card/hash-table
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Python 3](./algorithms/705_Design_HashSet.py)| Easy |
+|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Python 3](./algorithms/706_Design_HashMap.py)| Easy |
