@@ -160,6 +160,7 @@ ref: https://leetcode.com/explore/learn/card/hash-table
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python 3](./algorithms/136_Single_Number.py)| Easy |
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python 3](./algorithms/202_Happy_Number.py)| Easy |
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python 3](./algorithms/217_Contains_Duplicate.py)| Easy |
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python 3](./algorithms/349_Intersection_of_Two_Arrays.py)| Easy |
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Python 3](./algorithms/705_Design_HashSet.py)| Easy |
