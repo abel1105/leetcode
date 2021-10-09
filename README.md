@@ -160,6 +160,7 @@ ref: https://leetcode.com/explore/learn/card/hash-table
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python 3](./algorithms/1_Two_Sum.py)| Easy |
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python 3](./algorithms/49_Group_Anagrams.py)| Medium |
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python 3](./algorithms/136_Single_Number.py)| Easy |
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python 3](./algorithms/202_Happy_Number.py)| Easy |
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python 3](./algorithms/205_Isomorphic_Strings.py)| Easy |
