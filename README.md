@@ -160,6 +160,7 @@ ref: https://leetcode.com/explore/learn/card/hash-table
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python 3](./algorithms/1_Two_Sum.py)| Easy |
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python 3](./algorithms/36_Valid_Sudoku.py)| Medium |
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python 3](./algorithms/49_Group_Anagrams.py)| Medium |
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python 3](./algorithms/136_Single_Number.py)| Easy |
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python 3](./algorithms/202_Happy_Number.py)| Easy |
@@ -170,5 +171,6 @@ ref: https://leetcode.com/explore/learn/card/hash-table
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python 3](./algorithms/350_Intersection_of_Two_Arrays_II.py)| Easy |
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python 3](./algorithms/387_First_Unique_Character_in_a_String.py)| Easy |
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python 3](./algorithms/599_Minimum_Index_Sum_of_Two_Lists.py)| Easy |
+|652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Python 3](./652_Find_Duplicate_Subtrees.py)| Medium |
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Python 3](./algorithms/705_Design_HashSet.py)| Easy |
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Python 3](./algorithms/706_Design_HashMap.py)| Easy |
