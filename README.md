@@ -174,3 +174,4 @@ ref: https://leetcode.com/explore/learn/card/hash-table
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Python 3](./652_Find_Duplicate_Subtrees.py)| Medium |
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Python 3](./algorithms/705_Design_HashSet.py)| Easy |
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Python 3](./algorithms/706_Design_HashMap.py)| Easy |
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python 3](./algorithms/771_Jewels_and_Stones.py)| Easy |
