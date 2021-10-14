@@ -160,6 +160,7 @@ ref: https://leetcode.com/explore/learn/card/hash-table
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python 3](./algorithms/1_Two_Sum.py)| Easy |
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python 3](./algorithms/3_Longest_Substring_Without_Repeating_Characters.py)| Medium |
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python 3](./algorithms/36_Valid_Sudoku.py)| Medium |
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python 3](./algorithms/49_Group_Anagrams.py)| Medium |
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python 3](./algorithms/136_Single_Number.py)| Easy |
