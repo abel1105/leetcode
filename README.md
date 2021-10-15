@@ -168,9 +168,11 @@ ref: https://leetcode.com/explore/learn/card/hash-table
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python 3](./algorithms/205_Isomorphic_Strings.py)| Easy |
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python 3](./algorithms/217_Contains_Duplicate.py)| Easy |
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python 3](./algorithms/219_Contains_Duplicate_II.py)| Easy |
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python 3](./algorithms/347_Top_K_Frequent_Elements.py)| Medium |
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python 3](./algorithms/349_Intersection_of_Two_Arrays.py)| Easy |
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python 3](./algorithms/350_Intersection_of_Two_Arrays_II.py)| Easy |
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python 3](./algorithms/387_First_Unique_Character_in_a_String.py)| Easy |
+|454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python 3](./algorithms/454_4Sum_II.py)| Medium |
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python 3](./algorithms/599_Minimum_Index_Sum_of_Two_Lists.py)| Easy |
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Python 3](./652_Find_Duplicate_Subtrees.py)| Medium |
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Python 3](./algorithms/705_Design_HashSet.py)| Easy |
