@@ -171,6 +171,7 @@ ref: https://leetcode.com/explore/learn/card/hash-table
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python 3](./algorithms/347_Top_K_Frequent_Elements.py)| Medium |
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python 3](./algorithms/349_Intersection_of_Two_Arrays.py)| Easy |
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python 3](./algorithms/350_Intersection_of_Two_Arrays_II.py)| Easy |
+|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Python 3](./algorithms/380_Insert_Delete_GetRandom_O(1).py)| Medium |
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python 3](./algorithms/387_First_Unique_Character_in_a_String.py)| Easy |
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python 3](./algorithms/454_4Sum_II.py)| Medium |
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python 3](./algorithms/599_Minimum_Index_Sum_of_Two_Lists.py)| Easy |
