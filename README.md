@@ -179,3 +179,13 @@ ref: https://leetcode.com/explore/learn/card/hash-table
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Python 3](./algorithms/705_Design_HashSet.py)| Easy |
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Python 3](./algorithms/706_Design_HashMap.py)| Easy |
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python 3](./algorithms/771_Jewels_and_Stones.py)| Easy |
+
+
+### Queue & Stack 
+
+ref: https://leetcode.com/explore/learn/card/queue-stack
+
+|#	|Title|	Solution| Difficulty|
+|---|---|---|---|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python 3](./algorithms/200_Number_of_Islands.py)| Medium |
+|622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python 3](./algorithms/622_Design_Circular_Queue.py)| Medium |
