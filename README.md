@@ -189,3 +189,4 @@ ref: https://leetcode.com/explore/learn/card/queue-stack
 |---|---|---|---|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python 3](./algorithms/200_Number_of_Islands.py)| Medium |
 |622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python 3](./algorithms/622_Design_Circular_Queue.py)| Medium |
+|752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python 3](./algorithms/752_Open_the_Lock.py)| Medium |
