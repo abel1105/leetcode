@@ -187,6 +187,7 @@ ref: https://leetcode.com/explore/learn/card/queue-stack
 
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python 3](./algorithms/20_Valid_Parentheses.py)| Easy |
 |155|[Min Stack](https://leetcode.com/problems/number-of-islands/)|[Python 3](./algorithms/155_Min_Stack.py)| Medium |
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python 3](./algorithms/200_Number_of_Islands.py)| Medium |
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python 3](./algorithms/279_Perfect_Squares.py)| Medium |
