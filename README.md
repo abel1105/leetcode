@@ -193,6 +193,7 @@ ref: https://leetcode.com/explore/learn/card/queue-stack
 |155|[Min Stack](https://leetcode.com/problems/number-of-islands/)|[Python 3](./algorithms/155_Min_Stack.py)| Medium |
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python 3](./algorithms/200_Number_of_Islands.py)| Medium |
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python 3](./algorithms/279_Perfect_Squares.py)| Medium |
+|494|[Target Sum](https://leetcode.com/problems/target-sum/submissions/)|[Python 3](./algorithms/494_Target_Sum.py)| Medium |
 |622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python 3](./algorithms/622_Design_Circular_Queue.py)| Medium |
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python 3](./algorithms/739_Daily_Temperatures.py)| Medium |
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python 3](./algorithms/752_Open_the_Lock.py)| Medium |
