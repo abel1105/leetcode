@@ -192,6 +192,7 @@ ref: https://leetcode.com/explore/learn/card/queue-stack
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python 3](./algorithms/150_Evaluate_Reverse_Polish_Notation.py)| Medium |
 |155|[Min Stack](https://leetcode.com/problems/number-of-islands/)|[Python 3](./algorithms/155_Min_Stack.py)| Medium |
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python 3](./algorithms/200_Number_of_Islands.py)| Medium |
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Python 3](./algorithms/225_Implement_Stack_using_Queues.py)| Easy |
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python 3](./algorithms/232_Implement_Queue_using_Stacks.py)| Easy |
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python 3](./algorithms/279_Perfect_Squares.py)| Medium |
 |494|[Target Sum](https://leetcode.com/problems/target-sum/submissions/)|[Python 3](./algorithms/494_Target_Sum.py)| Medium |
