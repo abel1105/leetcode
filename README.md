@@ -196,8 +196,10 @@ ref: https://leetcode.com/explore/learn/card/queue-stack
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python 3](./algorithms/232_Implement_Queue_using_Stacks.py)| Easy |
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python 3](./algorithms/279_Perfect_Squares.py)| Medium |
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python 3](./algorithms/394_Decode_String.py)| Medium |
-|494|[Target Sum](https://leetcode.com/problems/target-sum/submissions/)|[Python 3](./algorithms/494_Target_Sum.py)| Medium |
+|494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Python 3](./algorithms/494_Target_Sum.py)| Medium |
+|542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Python 3](./)| Medium |
 |622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python 3](./algorithms/622_Design_Circular_Queue.py)| Medium |
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Python 3](./algorithms/733_Flood_Fill.py)| Easy |
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python 3](./algorithms/739_Daily_Temperatures.py)| Medium |
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python 3](./algorithms/752_Open_the_Lock.py)| Medium |
+|841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Python 3](./algorithms/841_Keys_and_Rooms.py)| Medium |
