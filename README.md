@@ -203,3 +203,12 @@ ref: https://leetcode.com/explore/learn/card/queue-stack
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python 3](./algorithms/739_Daily_Temperatures.py)| Medium |
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python 3](./algorithms/752_Open_the_Lock.py)| Medium |
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Python 3](./algorithms/841_Keys_and_Rooms.py)| Medium |
+
+
+### Trie
+
+ref: https://leetcode.com/explore/learn/card/trie/
+
+|#	|Title|	Solution| Difficulty|
+|---|---|---|---|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python 3](./algorithms/208_Implement_Trie_(Prefix_Tree).py)| Medium |
