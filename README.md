@@ -212,3 +212,5 @@ ref: https://leetcode.com/explore/learn/card/trie/
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python 3](./algorithms/208_Implement_Trie_(Prefix_Tree).py)| Medium |
+|648|[Replace Words](https://leetcode.com/problems/replace-words/)|[Python 3](./algorithms/648_Replace_Words.py)| Medium |
+|677|[Map Sum Pairs)](https://leetcode.com/problems/map-sum-pairs/)|[Python 3](./algorithms/677_Map_Sum_Pairs.py)| Medium |
