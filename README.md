@@ -212,5 +212,7 @@ ref: https://leetcode.com/explore/learn/card/trie/
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python 3](./algorithms/208_Implement_Trie_(Prefix_Tree).py)| Medium |
+|211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Python 3](./algorithms/211_Design_Add_and_Search_Words_Data_Structure.py)| Medium |
+|421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Python 3](./algorithms/421_Maximum_XOR_of_Two_Numbers_in_an_Array.py)| Medium |
 |648|[Replace Words](https://leetcode.com/problems/replace-words/)|[Python 3](./algorithms/648_Replace_Words.py)| Medium |
 |677|[Map Sum Pairs)](https://leetcode.com/problems/map-sum-pairs/)|[Python 3](./algorithms/677_Map_Sum_Pairs.py)| Medium |
