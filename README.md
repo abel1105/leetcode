@@ -1,6 +1,6 @@
 # LeetCode
 
-## LeetCode Algorithm
+## LeetCode explore
 
 ### Array
 
@@ -218,3 +218,17 @@ ref: https://leetcode.com/explore/learn/card/trie/
 |421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Python 3](./algorithms/421_Maximum_XOR_of_Two_Numbers_in_an_Array.py)| Medium |
 |648|[Replace Words](https://leetcode.com/problems/replace-words/)|[Python 3](./algorithms/648_Replace_Words.py)| Medium |
 |677|[Map Sum Pairs)](https://leetcode.com/problems/map-sum-pairs/)|[Python 3](./algorithms/677_Map_Sum_Pairs.py)| Medium |
+
+
+## Leetcode topic
+
+ref: https://leetcode.com/study-plan/algorithm/
+
+### Binary Search
+
+|#	|Title|	Solution| Difficulty|
+|---|---|---|---|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python 3](./algorithms/35_Search_Insert_Position.py)| Easy |
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python 3](./algorithms/278_First_Bad_Version.py)| Easy |
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python 3](./algorithms/704_Binary_Search.py)| Easy |
+
