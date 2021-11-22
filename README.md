@@ -231,6 +231,7 @@ ref: https://leetcode.com/study-plan/algorithm/
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python 3](./algorithms/35_Search_Insert_Position.py)| Easy |
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python 3](./algorithms/278_First_Bad_Version.py)| Easy |
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Python 3](./algorithms/567_Permutation_in_String.py)| Medium |
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python 3](./algorithms/617_Merge_Two_Binary_Trees.py)| Easy |
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python 3](./algorithms/695_Max_Area_of_Island.py)| Medium |
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python 3](./algorithms/704_Binary_Search.py)| Easy |
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python 3](./algorithms/876_Middle_of_the_Linked_List.py)| Easy |
