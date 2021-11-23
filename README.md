@@ -232,13 +232,13 @@ ref: https://leetcode.com/study-plan/algorithm/
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python 3](./algorithms/278_First_Bad_Version.py)| Easy |
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python 3](./algorithms/704_Binary_Search.py)| Easy |
 
-# Two Pointers
+### Two Pointers
 
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python 3](./algorithms/876_Middle_of_the_Linked_List.py)| Easy |
 
-# Sliding Window
+### Sliding Window
 
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
