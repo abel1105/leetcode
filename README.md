@@ -253,3 +253,9 @@ ref: https://leetcode.com/study-plan/algorithm/
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python 3](./algorithms/695_Max_Area_of_Island.py)| Medium |
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python 3](./algorithms/994_Rotting_Oranges.py)| Medium |
 
+
+### Recursion / Backtracking
+
+|#	|Title|	Solution| Difficulty|
+|---|---|---|---|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python 3](./algorithms/784_Letter_Case_Permutation.py)| Medium |
