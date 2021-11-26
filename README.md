@@ -259,3 +259,12 @@ ref: https://leetcode.com/study-plan/algorithm/
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python 3](./algorithms/784_Letter_Case_Permutation.py)| Medium |
+
+
+## Others
+
+### Sliding Window
+
+|#	|Title|	Solution| Difficulty|
+|---|---|---|---|
+|1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|[Python 3](./algorithms/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.py)| Medium |
