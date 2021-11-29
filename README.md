@@ -268,3 +268,4 @@ ref: https://leetcode.com/study-plan/algorithm/
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|[Python 3](./algorithms/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.py)| Medium |
+|1525|[Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)|[Python 3](./algorithms/1525_Number_of_Good_Ways_to_Split_a_String.py)| Medium |
