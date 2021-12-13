@@ -242,6 +242,7 @@ ref: https://leetcode.com/study-plan/algorithm/
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Python 3](./algorithms/15_3Sum.py)| Medium |
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python 3](./algorithms/844_Backspace_String_Compare.py)| Easy |
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python 3](./algorithms/876_Middle_of_the_Linked_List.py)| Easy |
 
 ### Sliding Window
