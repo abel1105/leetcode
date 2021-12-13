@@ -232,6 +232,8 @@ ref: https://leetcode.com/study-plan/algorithm/
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python 3](./algorithms/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)| Medium |
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python 3](./algorithms/35_Search_Insert_Position.py)| Easy |
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python 3](./algorithms/74_Search_a_2D_Matrix.py)| Medium |
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python 3](./algorithms/153_Find_Minimum_in_Rotated_Sorted_Array.py)| Medium |
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python 3](./algorithms/162_Find_Peak_Element.py)| Medium |
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python 3](./algorithms/278_First_Bad_Version.py)| Easy |
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python 3](./algorithms/704_Binary_Search.py)| Easy |
 
