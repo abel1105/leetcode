@@ -249,13 +249,16 @@ ref: https://leetcode.com/study-plan/algorithm/
 
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python 3](./algorithms/438_Find_All_Anagrams_in_a_String.py)| Medium |
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Python 3](./algorithms/567_Permutation_in_String.py)| Medium |
+|713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python 3](./algorithms/713_Subarray_Product_Less_Than_K.py)| Medium |
 
 
 ### Breadth-First Search / Depth-First Search
 
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
+|547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Python 3](./algorithms/547_Number_of_Provinces.py)| Medium |
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python 3](./algorithms/617_Merge_Two_Binary_Trees.py)| Easy |
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python 3](./algorithms/695_Max_Area_of_Island.py)| Medium |
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python 3](./algorithms/994_Rotting_Oranges.py)| Medium |
