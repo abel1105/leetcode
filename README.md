@@ -263,6 +263,7 @@ ref: https://leetcode.com/study-plan/algorithm/
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python 3](./algorithms/617_Merge_Two_Binary_Trees.py)| Easy |
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python 3](./algorithms/695_Max_Area_of_Island.py)| Medium |
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python 3](./algorithms/994_Rotting_Oranges.py)| Medium |
+|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Python 3](./algorithms/1091_Shortest_Path_in_Binary_Matrix.py)| Medium |
 
 
 ### Recursion / Backtracking
