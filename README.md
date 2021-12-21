@@ -285,6 +285,7 @@ ref: https://leetcode.com/study-plan/algorithm/
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Python 3](./algorithms/198_House_Robber.py)| Medium |
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Python 3](./algorithms/213_House_Robber_II.py)| Medium |
 
 ## Others
 
