@@ -276,6 +276,7 @@ ref: https://leetcode.com/study-plan/algorithm/
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Python 3](./algorithms/40_Combination_Sum_II.py)| Medium |
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Python 3](./algorithms/47_Permutations_II.py)| Medium |
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python 3](./algorithms/78_Subsets.py)| Medium |
+|79|[Word Search](https://leetcode.com/problems/word-search/)|[Python 3](./algorithms/79_Word_Search.py)| Medium |
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Python 3](./algorithms/90_Subsets_II.py)| Medium |
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python 3](./algorithms/784_Letter_Case_Permutation.py)| Medium |
 
