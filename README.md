@@ -292,6 +292,7 @@ ref: https://leetcode.com/study-plan/algorithm/
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Python 3](./algorithms/139_Word_Break.py)| Medium |
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Python 3](./algorithms/198_House_Robber.py)| Medium |
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Python 3](./algorithms/213_House_Robber_II.py)| Medium |
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Python 3](./algorithms/300_Longest_Increasing_Subsequence.py)| Medium |
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Python 3](./algorithms/213_House_Robber_II.py)| Medium |
 
 ## Others
