@@ -284,6 +284,7 @@ ref: https://leetcode.com/study-plan/algorithm/
 
 |#	|Title|	Solution| Difficulty|
 |---|---|---|---|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python 3](./algorithms/5_Longest_Palindromic_Substring.py)| Medium |
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python 3](./algorithms/45_Jump_Game_II.py)| Medium |
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python 3](./algorithms/55_Jump_Game.py)| Medium |
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python 3](./algorithms/62_Unique_Paths.py)| Medium |
